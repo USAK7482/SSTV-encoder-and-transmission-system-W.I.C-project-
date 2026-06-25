@@ -1,0 +1,1 @@
+print('SSTV system initialized')
